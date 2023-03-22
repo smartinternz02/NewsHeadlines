@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News Headlines</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="title_activity_display_news">DisplayNews</string>
+</resources>
